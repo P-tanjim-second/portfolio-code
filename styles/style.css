@@ -190,3 +190,45 @@ nav ul li a{
     line-height: 28px;
     color: #757575;
 }
+
+#resume{
+    padding-top: 130px;
+}
+#resume .resume-container{
+    margin: 113px auto 0;
+    width: 71%;
+    gap: 24px;
+    max-width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#resume .resume-container hr{
+    margin: 30px 0;
+}
+#resume .resume-container .section-title{
+    font-size: 30px;
+    color: #474747;
+    margin-bottom: 30px;
+}
+#resume .resume-container .resume-card{
+    max-width: 511px;
+    margin-right: 47px;   
+}
+#resume .resume-container .resume-card .card-title{
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+#resume .resume-container .resume-card .card-info{
+    font-size: 20px;
+    color: #757575;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+#resume .resume-container .resume-card .card-text{
+    font-size: 16px;
+    line-height: 28px;
+    color: #757575;
+    margin-bottom: 20px;
+}
